@@ -39,8 +39,8 @@ iframe#tela{
     height: 471px;
 }
 
-#redes{
-    text-align: right;
+section#redes{
+    text-align: center;
 }
 
 #redes img:hover{
